@@ -26,7 +26,7 @@ With the domain controller deployed with Active Directory established, numerous 
   - Resetting User Passwords
 
 ### Resetting User Password
-![AD Resetting User Password](https://drive.google.com/file/d/179U0IssS1hCLjD-IKTwfQDcT7Euf4kYJ/view?usp=sharing)
+![AD Resetting User Password](https://drive.google.com/file/d/14kN6j5wSA2q0zvakv1mvwfHuZTLr_VED/view?usp=sharing)
 
 
 ### Group Policy Procedures
@@ -37,11 +37,15 @@ With the domain controller deployed with Active Directory established, numerous 
   - Configuring Windows Firewall
   - Configuring Windows Registry Settings
 
+
+### Creating and Linking Group Policy Objects (GPOs)
+![Creating Group Policy Object](https://drive.google.com/file/d/1oxy_ywZuO9ePG8gDrW7Y-Wp-lfxtsZUE/view?usp=sharing)
+
 ### Configuring Domain Password and Account Lockout Policies with Group Policy
-![GP Software Deployment](https://drive.google.com/file/d/15bt98WJnIdjhGBcvkXhdCgvmoUVwCbel/view?usp=sharing)
+![Configuring Domain Passowrd and Account Lockout Policies](https://drive.google.com/file/d/1SkWxKx7F7jXODwyEfgCAmJeoqb36kcI0/view?usp=sharing)
 
 ### Configuring Windows Firewall with Group Policy
-![GP Configuring Windows Firewall](https://drive.google.com/file/d/1I1BVDytu3f9PoT91a_gijC11fbebA4Yf/view?usp=sharing)
+![GP Configuring Windows Firewall](https://drive.google.com/file/d/1Fvss05Xfv87ewyufLcHsna9KRomXxHG3/view?usp=sharing)
 
 In order to automate laborious AD administrative tasks, PowerShell script execution was enabled. Once implemented, several PowerShell scripts were utilized to conduct common AD tasks. Such as:
 
@@ -66,5 +70,5 @@ New-ADUser `
     -ChangePasswordAtLogon 1
 ```
 
-![PowerShell script for Adding AD Users](https://drive.google.com/file/d/1eeZUQUnJVCsa6vsBgXHLJNrOhCIY6z5c/view?usp=sharing)
+![PowerShell script for Adding AD Users](https://drive.google.com/file/d/1ezvZzqNspZrwPBF3w5MEBUe9KsE52PU7/view?usp=sharing)
 
