@@ -42,7 +42,7 @@ With the domain controller deployed with Active Directory established, numerous 
 [Creating Group Policy Object](https://drive.google.com/file/d/1oxy_ywZuO9ePG8gDrW7Y-Wp-lfxtsZUE/view?usp=sharing)
 
 ### Configuring Domain Password and Account Lockout Policies with Group Policy
-[Configuring Domain Passowrd and Account Lockout Policies](https://drive.google.com/file/d/1SkWxKx7F7jXODwyEfgCAmJeoqb36kcI0/view?usp=sharing)
+[Configuring Domain Password and Account Lockout Policies](https://drive.google.com/file/d/1SkWxKx7F7jXODwyEfgCAmJeoqb36kcI0/view?usp=sharing)
 
 ### Configuring Windows Firewall with Group Policy
 [GP Configuring Windows Firewall](https://drive.google.com/file/d/1Fvss05Xfv87ewyufLcHsna9KRomXxHG3/view?usp=sharing)
@@ -70,5 +70,5 @@ New-ADUser `
     -ChangePasswordAtLogon 1
 ```
 
-![PowerShell script for Adding AD Users](https://drive.google.com/file/d/1ezvZzqNspZrwPBF3w5MEBUe9KsE52PU7/view?usp=sharing)
+[PowerShell script for Adding AD Users](https://drive.google.com/file/d/1ezvZzqNspZrwPBF3w5MEBUe9KsE52PU7/view?usp=sharing)
 
