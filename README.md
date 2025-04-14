@@ -70,5 +70,5 @@ New-ADUser `
     -ChangePasswordAtLogon 1
 ```
 
-[PowerShell script for Adding AD Users](https://github.com/msmooli/Active-Directory-and-Group-Policy-Home-Lab/blob/main/Powershell%20Script.png)
+[PowerShell script for Adding AD Users](https://github.com/msmooli/Active-Directory-and-Group-Policy-Home-Lab/blob/main/AD%20User%20Creation.png)
 
